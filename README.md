@@ -1,1 +1,1 @@
-# portfolio
+#### This portfolio website is open for viewing and learning purposes. You may fork the repository for educational use, but you may not use the code or content for your own projects without permission.
