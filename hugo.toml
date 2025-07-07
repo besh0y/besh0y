@@ -7,7 +7,7 @@ theme = 'construction'
 title = "BD"
 message = "Beshoy Danial"
 message2 = "Under Construction"
-background = "bg.mov"
+background = "bg.mp4"
 
 socialIcons = [
     {name = "email", url = "contact@besh0y.com"},
