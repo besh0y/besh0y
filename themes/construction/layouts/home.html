@@ -1,7 +1,7 @@
 
 {{ define "main" }}
     <div class="bgimg">
-        <video autoplay muted loop poster="poster.jpg">
+        <video autoplay muted loop playsinline="poster.jpg">
             {{ if .Site.Params.background }}
                 <source src="{{ .Site.Params.background }}" type="video/mp4">
             {{ else }}
