@@ -58,7 +58,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     company: "CLYR",
-    title: "Freelance Principal Backend Engineer",
+    title: "Senior Backend Engineer",
     start: "2022",
     end: "2025",
     link: "https://clyr.io",
