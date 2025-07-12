@@ -50,7 +50,7 @@ export default function RootLayout({
           storageKey="theme"
           defaultTheme="system"
         >
-          <div className="flex min-h-screen w-full flex-col font-[family-name:var(--font-inter-tight)] bg-gradient-to-tl from-black via-zinc-700/20 to-black">
+          <div className="flex min-h-screen w-full flex-col font-[family-name:var(--font-inter-tight)] dark:bg-gradient-to-tl dark:from-black dark:via-zinc-700/20 dark:to-black">
             <Particles
               className="fixed inset-0 -z-10 animate-fade-in"
               quantity={150}
