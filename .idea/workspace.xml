@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd3381a-e5b7-41d9-8704-30e92299bc92" name="Changes" comment="" />
+    <list default="true" id="cbd3381a-e5b7-41d9-8704-30e92299bc92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/ui/particles.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/mouse.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/scroll-progress.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/scroll-progress.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,21 +41,28 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "next",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/beshoy.danial/Desktop/besh0y/themes/construction",
+    "last_opened_file_path": "/Users/beshoy.danial/Desktop/besh0y",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/beshoy.danial/Desktop/besh0y/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/Users/beshoy.danial/Desktop/besh0y/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/construction" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/components/ui" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/themes/construction" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/themes/construction/static" />
@@ -69,6 +88,7 @@
       <workItem from="1751871981168" duration="123000" />
       <workItem from="1751912094507" duration="72000" />
       <workItem from="1751912170062" duration="3074000" />
+      <workItem from="1752340924370" duration="7215000" />
     </task>
     <servers />
   </component>
